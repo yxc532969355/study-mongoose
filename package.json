@@ -1,0 +1,23 @@
+{
+  "name": "study-mongoose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "app":"node demo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yxc532969355/study-mongoose.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yxc532969355/study-mongoose/issues"
+  },
+  "homepage": "https://github.com/yxc532969355/study-mongoose#readme",
+  "dependencies": {
+    "mongoose": "^4.9.8"
+  }
+}
